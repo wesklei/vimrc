@@ -1,4 +1,3 @@
-vimrc
-=====
+My personal vim configuration files.
 
-Vim files and configs
+If you have any suggestion, be free to contact me = )
